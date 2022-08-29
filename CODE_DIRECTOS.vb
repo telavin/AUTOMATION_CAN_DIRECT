@@ -581,7 +581,7 @@ End Sub
 
 
 
-Sub horitas()
+Sub horas()
 
 Application.ScreenUpdating = False
 Application.DisplayAlerts = False
@@ -794,7 +794,7 @@ Application.Quit
 
 End Sub
 
-Sub tienditas()
+Sub tiendas()
 
 
 Application.ScreenUpdating = False
@@ -1011,7 +1011,7 @@ MsgBox "Por favor espere DOS minutos mientras se enfría el procesador, de lo co
 
 End Sub
 
-Sub dragon_ball()
+Sub proceso_1()
 
 Application.ScreenUpdating = False
 Application.DisplayAlerts = False
@@ -4469,7 +4469,7 @@ Application.Calculation = xlCalculationAutomatic
 
 
 
-MsgBox "FELICIDADES CAMPEÓN...UNA LIQUIDACIÓN QUE SE DEMORABA DOS DÍAS LA ACABASTE DE HACER EN 1 HORA", vbInformation
+MsgBox "FELICIDADES ...UNA LIQUIDACIÓN QUE SE DEMORABA DOS DÍAS LA ACABASTE DE HACER EN 1 HORA", vbInformation
 Application.Calculation = xlCalculationAutomatic
 ActiveWorkbook.Close SaveChanges:=True
 Application.Quit
